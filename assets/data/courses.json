@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "React Front To back",
+    "category": "Development",
+    "author": "Alex Morgan",
+    "durationMinutes": 390,
+    "rating": 4.9,
+    "price": 0,
+    "image": "assets/images/course_cover.png",
+    "description": "Learn React from zero: components, props, state, hooks and talking to a backend API. Every lesson ends with a small exercise you build yourself.",
+    "lessons": [
+      { "title": "Introduction to React", "duration": "04:28" },
+      { "title": "Understanding React", "duration": "06:12" },
+      { "title": "Create first React project", "duration": "43:58" },
+      { "title": "Build React", "duration": "26:18" },
+      { "title": "Components and props", "duration": "32:40" },
+      { "title": "State and hooks", "duration": "48:05" },
+      { "title": "Connecting to an API", "duration": "55:12" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Packaging Design",
+    "category": "Design",
+    "author": "Jenny Wilson",
+    "durationMinutes": 300,
+    "rating": 4.7,
+    "price": 24.99,
+    "image": null,
+    "description": "Design a box from brief to print: materials, dielines, typography on curved surfaces and preparing files for the printing house.",
+    "lessons": [
+      { "title": "What packaging has to do", "duration": "08:15" },
+      { "title": "Materials and dielines", "duration": "22:40" },
+      { "title": "Typography on a box", "duration": "18:05" },
+      { "title": "Mockups and print files", "duration": "31:20" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Product Design",
+    "category": "Design",
+    "author": "Esther Howard",
+    "durationMinutes": 270,
+    "rating": 4.8,
+    "price": 29.99,
+    "image": null,
+    "description": "Go from a real problem to a tested prototype: interviews, wireframes, prototyping in Figma and testing the result with users.",
+    "lessons": [
+      { "title": "From problem to brief", "duration": "12:30" },
+      { "title": "User interviews", "duration": "25:10" },
+      { "title": "Wireframes", "duration": "19:45" },
+      { "title": "Prototyping in Figma", "duration": "41:05" },
+      { "title": "Testing with users", "duration": "22:50" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Spoken English",
+    "category": "Language",
+    "author": "Emma Clarke",
+    "durationMinutes": 480,
+    "rating": 4.6,
+    "price": 0,
+    "image": null,
+    "description": "Everyday conversations you can use from the first week: introducing yourself, small talk, travel and job interviews.",
+    "lessons": [
+      { "title": "Introducing yourself", "duration": "09:40" },
+      { "title": "Small talk", "duration": "14:20" },
+      { "title": "At the airport", "duration": "12:05" },
+      { "title": "Job interview phrases", "duration": "21:30" },
+      { "title": "Pronunciation drills", "duration": "16:45" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Flutter for Beginners",
+    "category": "Development",
+    "author": "Marcus Lee",
+    "durationMinutes": 420,
+    "rating": 4.8,
+    "price": 39.99,
+    "image": null,
+    "description": "Build and publish your first mobile app with Flutter: widgets, layouts, state management with Cubit and loading data from JSON.",
+    "lessons": [
+      { "title": "Installing Flutter", "duration": "07:55" },
+      { "title": "Widgets 101", "duration": "18:30" },
+      { "title": "Layouts with Row and Column", "duration": "24:10" },
+      { "title": "State with Cubit", "duration": "33:40" },
+      { "title": "Loading JSON data", "duration": "27:25" },
+      { "title": "Publishing the app", "duration": "15:05" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "JavaScript Essentials",
+    "category": "Development",
+    "author": "Alex Morgan",
+    "durationMinutes": 360,
+    "rating": 4.5,
+    "price": 19.99,
+    "image": null,
+    "description": "The parts of JavaScript you use every day: variables, functions, arrays, objects and asynchronous code with promises.",
+    "lessons": [
+      { "title": "Variables and types", "duration": "11:20" },
+      { "title": "Functions", "duration": "16:40" },
+      { "title": "Arrays and objects", "duration": "21:15" },
+      { "title": "Async and promises", "duration": "28:30" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "UI Color Theory",
+    "category": "Design",
+    "author": "Jenny Wilson",
+    "durationMinutes": 95,
+    "rating": 4.4,
+    "price": 0,
+    "image": null,
+    "description": "A short course on choosing colors for interfaces: building a palette and checking contrast so text stays readable.",
+    "lessons": [
+      { "title": "Hue, value, saturation", "duration": "09:10" },
+      { "title": "Building a palette", "duration": "14:35" },
+      { "title": "Contrast and accessibility", "duration": "12:50" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Social Media Marketing",
+    "category": "Marketing",
+    "author": "Olivia Bennett",
+    "durationMinutes": 210,
+    "rating": 4.3,
+    "price": 24.99,
+    "image": null,
+    "description": "Plan, publish and measure content on social networks, then run your first small paid campaign.",
+    "lessons": [
+      { "title": "Choosing your channels", "duration": "10:05" },
+      { "title": "Content calendar", "duration": "15:30" },
+      { "title": "Reading the analytics", "duration": "18:45" },
+      { "title": "Paid campaigns", "duration": "22:10" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Business English",
+    "category": "Language",
+    "author": "Emma Clarke",
+    "durationMinutes": 330,
+    "rating": 4.7,
+    "price": 19.99,
+    "image": null,
+    "description": "English for work: clear emails, meetings and calls, presenting numbers and negotiating.",
+    "lessons": [
+      { "title": "Writing clear emails", "duration": "13:25" },
+      { "title": "Meetings and calls", "duration": "17:40" },
+      { "title": "Presenting numbers", "duration": "15:55" },
+      { "title": "Negotiation phrases", "duration": "19:30" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Project Management Basics",
+    "category": "Business",
+    "author": "Robert Fox",
+    "durationMinutes": 240,
+    "rating": 4.6,
+    "price": 34.99,
+    "image": null,
+    "description": "How to plan a project, estimate the work, manage risks and run a team with Agile and Scrum.",
+    "lessons": [
+      { "title": "What a project is", "duration": "08:30" },
+      { "title": "Planning and estimating", "duration": "24:15" },
+      { "title": "Managing risks", "duration": "18:20" },
+      { "title": "Agile and Scrum", "duration": "26:40" }
+    ]
+  }
+]

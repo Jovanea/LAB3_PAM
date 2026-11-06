@@ -1,0 +1,42 @@
+name: lab_3_pam
+description: "LAB3 PAM - Online Course App (Cubit + JSON, varianta 4)."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  # State management: Cubit (din pachetul BLoC)
+  flutter_bloc: ^9.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    # Datele aplicatiei (incarcate asincron la pornire)
+    - assets/data/
+    # Imaginile exportate din Figma (varianta 4)
+    - assets/images/
+
+  # Fontul folosit in design (Poppins)
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
